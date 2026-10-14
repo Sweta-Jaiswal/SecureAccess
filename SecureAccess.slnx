@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="SecureAccess.Identity.Api/SecureAccess.Identity.Api.csproj" />
+    <Project Path="SecureAccess.Resource.Api/SecureAccess.Resource.Api.csproj" />
+  </Folder>
+</Solution>
